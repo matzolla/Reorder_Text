@@ -16,6 +16,8 @@ Using this example of `5 sentences` shuffled the objective was to recover the ex
 `correct_order=['The forecast called for rainy','I packed my raincoat','It never rained','Instead it started to snow',
       'The weather is never predictable']`. You may decide to change the content of this text and compute the ordering again.
       
+ ![Book logo](me.png)
+      
 ## `Performance and discussion`
 
 Suprisingly running a `BERT` model to predict next-sentence probability give a quite descent accuracy of `40%` averagely. This might change as the shuffling changes. The Paper [Everything in Order? A Simple Way to Order Sentences](https://aclanthology.org/2021.emnlp-main.841.pdf) also investigated the effect of placing a text at a further index from it's original index in the text corpus. This might affect the accuracy as well !
