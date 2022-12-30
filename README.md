@@ -16,7 +16,7 @@ Using this example of `5 sentences` shuffled the objective was to recover the ex
 `correct_order=['The forecast called for rainy','I packed my raincoat','It never rained','Instead it started to snow',
       'The weather is never predictable']`. You may decide to change the content of this text and compute the ordering again.
       
- ![Book logo](Screen Shot 2022-12-30 at 10.57.01.png)
+ ![Book logo](text.png)
       
 ## `Performance and discussion`
 
