@@ -9,3 +9,5 @@ The tokenizer is used to tokenize the senteces used in the Next-Sentence-Predict
 Finally, `tensorflow.keras` is used later to compute the softmax from the logits in the Next-Sentence-Prediction task.
 
 ## `User Case`
+Let's take the toy example of the paper Is [Everything in Order? A Simple Way to Order Sentences](https://aclanthology.org/2021.emnlp-main.841.pdf).
+Using this example of `5 sentences` shuffled the objective was to recover the exact sequence (order) of the sentences
