@@ -18,4 +18,4 @@ Using this example of `5 sentences` shuffled the objective was to recover the ex
       
 ## `Performance and discussion`
 
-Suprisingly running a `BERT` model to predict next-sentence probability give a quite descent accuracy of `40%` averagely. This might change as the shuffling changes. The Paper Everything in Order? A Simple Way to Order Sentences](https://aclanthology.org/2021.emnlp-main.841.pdf) also investigated the effect of placing a text at a far index from it's original index in the text corpus. This might affect the accuracy as well
+Suprisingly running a `BERT` model to predict next-sentence probability give a quite descent accuracy of `40%` averagely. This might change as the shuffling changes. The Paper [Everything in Order? A Simple Way to Order Sentences](https://aclanthology.org/2021.emnlp-main.841.pdf) also investigated the effect of placing a text at a far index from it's original index in the text corpus. This might affect the accuracy as well
