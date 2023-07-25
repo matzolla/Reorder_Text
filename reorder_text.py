@@ -15,7 +15,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-"""##`Approach`
+"""#`Approach`
 
 Our approach is to use `text re-odering`, using a pre-trained language model (PLM), in our case `BERT`. Basically text re-odering require us to build a model that can predict the ordering of a sequence of disorder texts.
 
